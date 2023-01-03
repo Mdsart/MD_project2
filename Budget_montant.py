@@ -1,7 +1,7 @@
 #encoding:utf-8
 
 __author__ ="Maduka David <mdsartb@gmail.com>"
-__credits__ = "Acknowledgment to: Dr Cecille Mboyo"
+__credits__ = ""
 __versions__ = "Budget version 1.0"
 __date__ = "16.10.2022"
 
