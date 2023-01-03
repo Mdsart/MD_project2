@@ -1,11 +1,11 @@
 /**
 auteur: Maduka David <mdsartb@gmail.com>
-version: fibonacci python 3
+version: fibonacci c++
 
  **/
 
-#include <stdio.h>
-#include <stdlib.h>
+
+
 #include <iostream>
 
 using namespace std;
